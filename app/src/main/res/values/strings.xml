@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">LearnerApp</string>
+    <string-array name="profile">
+        <item>TEACHER</item>
+        <item>STUDENT</item>
+        <item>PARENT</item>
+    </string-array>
+    <string name="sub1">English</string>
+
+    <string name="sub2">Mathematics</string>
+    <string name="sub3">Aptitude</string>
+    <string name="testtitle">LearnerApp</string>
+    <string-array name="testt">
+        <item>CLICK TO SELECT     </item>
+        <item>TEST NO 1</item>
+        <item>TEST NO 2</item>
+        <item>TEST NO 3</item>
+        <item>TEST NO 4</item>
+        <item>TEST NO 5</item>
+        <item>TEST NO 6</item>
+
+
+    </string-array>
+
+
+    <string name="Practice">Pracice Questions</string>
+    <string name="Tests">Test</string>
+    <string name="LeaderBoard">Leader Board</string>
+    <string name="LogOut">Sign Out</string>
+
+
+    <string name="prctitle">LearnerApp</string>
+    <string-array name="pract">
+        <item>CLICK TO SELECT     </item>
+        <item>PRACTICE PAPER NO 1</item>
+        <item>PRACTICE PAPER NO 2</item>
+        <item>PRACTICE PAPER NO 3</item>
+        <item>PRACTICE PAPER NO 4</item>
+        <item>PRACTICE PAPER NO 5</item>
+        <item>PRACTICE PAPER NO 6</item>
+
+
+    </string-array>
+
+</resources>
